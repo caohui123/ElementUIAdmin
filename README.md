@@ -1,4 +1,5 @@
-#新版本已经使用了最新的vue-cli3重构
+
+#本项目已经废弃 新版本已经使用了最新的vue-cli3重构
 https://github.com/xusenlin/ElementUIAdmin2
 
 
