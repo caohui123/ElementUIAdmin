@@ -1,6 +1,6 @@
 
-#本项目已经废弃 新版本已经使用了最新的vue-cli3重构
-https://github.com/xusenlin/ElementUIAdmin2
+# 本项目已经废弃 新版本已经使用了最新的vue-cli3重构，添加了更多功能
+https://github.com/xusenlin/VueElementUiAdmin
 
 
 # Element UI Admin
